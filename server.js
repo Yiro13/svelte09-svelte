@@ -1,4 +1,4 @@
-const express = require('express');
+const express = import('express');
 const path = import('path');
 
 const __dirname = path.resolve();
