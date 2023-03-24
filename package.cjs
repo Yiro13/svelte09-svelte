@@ -21,5 +21,9 @@
   "dependencies": {
     "express": "^4.18.2",
     "sirv-cli": "^2.0.0"
+  },
+  "exports": {
+    "type": "commonjs",
+    "./server.js": "./server.cjs"
   }
 }
