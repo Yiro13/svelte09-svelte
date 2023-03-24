@@ -1,5 +1,5 @@
-const express = import('express');
-const path = import('path');
+import express from 'express';
+import path from 'path';
 
 const __dirname = path.resolve();
 
