@@ -1,3 +1,4 @@
+import express from 'express';
 const express = import('express');
 const path = import('path');
 
